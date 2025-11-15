@@ -1,8 +1,8 @@
 
-def suma(a,b,c):
+def suma(a,b):
 
-    return a+b+c
+    return a+b
 
 
-print(suma(4,5,5))
+print(suma(4,5))
 
